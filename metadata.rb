@@ -1,0 +1,11 @@
+name 'eldus-hubot'
+maintainer 'jobvite ops'
+maintainer_email 'operations@jobvite.com'
+license 'all_rights'
+description 'Installs/Configures eldus-hubot'
+long_description 'Installs/Configures eldus-hubot'
+version '0.1.0'
+
+depends 'poise'
+depends 'poise-javascript'
+depends 'redis'
